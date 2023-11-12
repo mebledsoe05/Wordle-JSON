@@ -1,14 +1,229 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "letters" :[
+    {"key": "a"},
+    {"key": "b"},
+    {"key": "c"},
+    {"key": "d"},
+    {"key": "e"},
+    {"key": "f"},
+    {"key": "g"},
+    {"key": "h"},
+    {"key": "i"},
+    {"key": "j"},
+    {"key": "k"},
+    {"key": "l"},
+    {"key": "m"},
+    {"key": "n"},
+    {"key": "o"},
+    {"key": "p"},
+    {"key": "q"},
+    {"key": "r"},
+    {"key": "s"},
+    {"key": "t"},
+    {"key": "u"},
+    {"key": "v"},
+    {"key": "w"},
+    {"key": "x"},
+    {"key": "y"},
+    {"key": "z"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+
+  "solutions" :
+     [
+      {
+        "word": "ninja",
+        "id": 1
+      },
+      {
+        "word": "spade",
+        "id": 2
+      },
+      {
+        "word": "pools",
+        "id": 3
+      },
+      {
+        "word": "drive",
+        "id": 4
+      },
+      {
+        "word": "relax",
+        "id": 5
+      },
+      {
+        "word": "times",
+        "id": 6
+      },
+      {
+        "word": "train",
+        "id": 7
+      },
+      {
+        "word": "cores",
+        "id": 8
+      },
+      {
+        "word": "pours",
+        "id": 9
+      },
+      {
+        "word": "blame",
+        "id": 10
+      },
+      {
+        "word": "banks",
+        "id": 11
+      },
+      {
+        "word": "phone",
+        "id": 12
+      },
+      {
+        "word": "bling",
+        "id": 13
+      },
+      {
+        "word": "coins",
+        "id": 14
+      },
+      {
+        "word": "hello",
+        "id": 15
+      }
+    ],
+  "sixLetters" :[
+    {
+      "word": "ninjas",
+      "id": 1
+    },
+    {
+      "word": "orange",
+      "id": 2
+    },
+    {
+      "word": "abacus",
+      "id": 3
+    },
+    {
+      "word": "driven",
+      "id": 4
+    },
+    {
+      "word": "baboon",
+      "id": 5
+    },
+    {
+      "word": "dabbed",
+      "id": 6
+    },
+    {
+      "word": "dabble",
+      "id": 7
+    },
+    {
+      "word": "fabled",
+      "id": 8
+    },
+    {
+      "word": "habit",
+      "id": 9
+    },
+    {
+      "word": "kabuki",
+      "id": 10
+    },
+    {
+      "word": "nachos",
+      "id": 11
+    },
+    {
+      "word": "phoned",
+      "id": 12
+    },
+    {
+      "word": "oafish",
+      "id": 13
+    },
+    {
+      "word": "packed",
+      "id": 14
+    },
+    {
+      "word": "rabbit",
+      "id": 15
+    }
+    ],
+
+
+  "sevenLetters" :[
+    {
+      "word": "jacuzzi",
+      "id": 1
+    },
+    {
+      "word": "abandon",
+      "id": 2
+    },
+    {
+      "word": "babbled",
+      "id": 3
+    },
+    {
+      "word": "fabrics",
+      "id": 4
+    },
+    {
+      "word": "relaxed",
+      "id": 5
+    },
+    {
+      "word": "deposit",
+      "id": 6
+    },
+    {
+      "word": "gallery",
+      "id": 7
+    },
+    {
+      "word": "harbour",
+      "id": 8
+    },
+    {
+      "word": "fantasy",
+      "id": 9
+    },
+    {
+      "word": "eastern",
+      "id": 10
+    },
+    {
+      "word": "lawsuit",
+      "id": 11
+    },
+    {
+      "word": "hopeful",
+      "id": 12
+    },
+    {
+      "word": "chapter",
+      "id": 13
+    },
+    {
+      "word": "endorse",
+      "id": 14
+    },
+    {
+      "word": "justice",
+      "id": 15
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+
+
+  "secret" :[
+    {
+      "word": "Acrocephalopolysyndactyly",
+      "id": 1
+    }]
 }
+
+
